@@ -77,38 +77,4 @@
     box-shadow: 0px 0px 20px black;
 }
 
-.team-img{
-    padding-left: 510px;
-    padding-top: 100px;
-    width: 230px;
-    animation-name: ram;
-    animation-duration: 1s;
-    animation-direction: reverse;
-    animation-timing-function: ease-in-out;
-}
 
-@keyframes ram {
-    form {
-        margin-bottom: 0px;
-    }
-
-    to {
-        margin-top: 550px;
-    }
-}
-
-.team-t1{
-    font-size: 40px;
-    font-weight: 900;
-    text-align: center;
-    margin-top: 10px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
-.team-t2{
-    font-size: 30px;
-    font-weight: 900;
-    text-align: center;
-    margin-top: -30px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-}
